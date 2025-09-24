@@ -1,2 +1,7 @@
 todos os aquivos .py
 um arquivo para cada tela
+
+============================
+atualizar no github 
+git add --all
+git commit -m "<comentário>"
